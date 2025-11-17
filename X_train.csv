@@ -1,0 +1,401 @@
+User_ID,Age,Gender,Daily_Screen_Time(hrs),Sleep_Quality(1-10),Stress_Level(1-10),Days_Without_Social_Media,Exercise_Frequency(week),Social_Media_Platform
+U297,23,Female,5.0,5.0,7.0,2.0,4.0,Instagram
+U221,23,Other,5.2,7.0,6.0,5.0,1.0,YouTube
+U001,44,Male,3.1,7.0,6.0,2.0,5.0,Facebook
+U256,33,Female,5.9,4.0,7.0,0.0,3.0,LinkedIn
+U336,27,Male,3.8,8.0,6.0,6.0,4.0,Facebook
+U142,32,Male,5.8,6.0,6.0,3.0,1.0,Facebook
+U226,27,Male,6.6,5.0,7.0,5.0,2.0,YouTube
+U323,37,Male,5.3,7.0,7.0,5.0,1.0,TikTok
+U343,38,Female,5.9,7.0,7.0,1.0,1.0,Instagram
+U052,29,Female,3.3,7.0,5.0,1.0,2.0,YouTube
+U262,37,Female,3.9,8.0,6.0,3.0,0.0,LinkedIn
+U157,26,Female,6.7,5.0,7.0,2.0,4.0,Instagram
+U279,23,Male,2.5,9.0,5.0,7.0,5.0,X (Twitter)
+U098,24,Female,6.1,4.0,9.0,0.0,4.0,Facebook
+U079,43,Other,4.0,7.0,7.0,2.0,4.0,YouTube
+U496,23,Male,6.9,5.0,7.0,4.0,2.0,X (Twitter)
+U022,42,Other,6.4,7.0,6.0,5.0,3.0,TikTok
+U056,29,Female,4.0,7.0,3.0,3.0,3.0,TikTok
+U105,19,Male,7.2,5.0,6.0,1.0,0.0,LinkedIn
+U473,36,Female,7.4,3.0,8.0,5.0,4.0,Facebook
+U044,17,Other,2.3,9.0,3.0,3.0,4.0,X (Twitter)
+U227,37,Female,4.6,9.0,6.0,3.0,2.0,YouTube
+U116,21,Female,4.0,9.0,5.0,3.0,2.0,X (Twitter)
+U224,32,Female,3.6,7.0,5.0,3.0,1.0,Facebook
+U123,40,Female,7.0,4.0,6.0,0.0,5.0,Instagram
+U324,44,Female,7.5,7.0,8.0,4.0,3.0,YouTube
+U472,47,Female,6.8,5.0,4.0,3.0,1.0,Instagram
+U223,18,Female,5.9,8.0,6.0,0.0,2.0,Facebook
+U465,16,Female,3.5,8.0,5.0,4.0,3.0,TikTok
+U449,22,Male,2.7,6.0,6.0,1.0,3.0,LinkedIn
+U382,25,Male,7.5,4.0,8.0,3.0,3.0,X (Twitter)
+U316,16,Male,3.6,7.0,5.0,5.0,4.0,TikTok
+U025,30,Male,5.0,6.0,6.0,0.0,5.0,X (Twitter)
+U302,45,Female,6.4,6.0,7.0,2.0,1.0,Facebook
+U407,37,Female,4.4,7.0,6.0,5.0,4.0,YouTube
+U456,25,Male,4.1,6.0,5.0,5.0,1.0,X (Twitter)
+U119,35,Female,6.3,6.0,7.0,6.0,4.0,Facebook
+U193,16,Male,4.2,7.0,7.0,5.0,3.0,TikTok
+U301,47,Female,4.0,8.0,4.0,3.0,5.0,Facebook
+U310,41,Female,6.2,8.0,9.0,0.0,4.0,TikTok
+U306,34,Female,5.3,6.0,6.0,6.0,2.0,YouTube
+U438,28,Male,4.0,7.0,5.0,1.0,3.0,LinkedIn
+U091,29,Male,4.0,6.0,4.0,1.0,4.0,YouTube
+U349,34,Male,4.1,8.0,4.0,5.0,4.0,LinkedIn
+U459,18,Male,7.3,5.0,8.0,1.0,1.0,YouTube
+U322,20,Male,6.3,6.0,6.0,4.0,2.0,TikTok
+U109,44,Male,6.4,6.0,8.0,0.0,1.0,LinkedIn
+U309,43,Female,5.0,5.0,6.0,0.0,4.0,Facebook
+U100,30,Female,3.5,8.0,4.0,3.0,3.0,Facebook
+U103,47,Male,5.9,4.0,7.0,2.0,4.0,Instagram
+U484,18,Male,4.3,7.0,7.0,3.0,3.0,TikTok
+U249,46,Female,10.8,5.0,10.0,2.0,3.0,Instagram
+U102,28,Male,6.3,5.0,7.0,2.0,2.0,Facebook
+U328,31,Female,6.2,6.0,7.0,6.0,2.0,Facebook
+U422,40,Female,5.8,7.0,8.0,4.0,4.0,TikTok
+U034,24,Female,6.6,6.0,7.0,4.0,0.0,TikTok
+U141,18,Male,4.8,6.0,5.0,1.0,2.0,Facebook
+U470,48,Female,5.6,6.0,6.0,5.0,3.0,TikTok
+U055,23,Female,5.2,6.0,6.0,7.0,3.0,YouTube
+U265,42,Male,5.3,7.0,7.0,4.0,2.0,TikTok
+U264,17,Male,9.1,4.0,9.0,7.0,4.0,TikTok
+U037,35,Female,7.7,4.0,8.0,0.0,3.0,Facebook
+U420,20,Male,5.6,8.0,8.0,3.0,5.0,Instagram
+U038,43,Female,4.3,8.0,4.0,1.0,1.0,TikTok
+U305,45,Male,7.7,6.0,9.0,2.0,5.0,TikTok
+U311,41,Female,4.9,7.0,6.0,3.0,3.0,TikTok
+U489,25,Female,8.4,5.0,9.0,1.0,3.0,Facebook
+U488,27,Female,5.6,7.0,7.0,5.0,2.0,Facebook
+U404,32,Male,6.2,6.0,8.0,4.0,5.0,YouTube
+U334,45,Male,5.2,7.0,4.0,3.0,3.0,X (Twitter)
+U192,17,Female,4.9,7.0,6.0,3.0,3.0,X (Twitter)
+U463,43,Female,2.6,9.0,5.0,4.0,5.0,Instagram
+U214,31,Female,5.5,7.0,7.0,2.0,4.0,LinkedIn
+U266,17,Male,8.7,4.0,8.0,1.0,1.0,YouTube
+U493,27,Female,4.5,5.0,7.0,6.0,5.0,Facebook
+U111,47,Male,7.3,4.0,6.0,5.0,4.0,TikTok
+U471,21,Male,4.4,5.0,6.0,4.0,3.0,YouTube
+U070,39,Male,3.4,8.0,6.0,7.0,3.0,LinkedIn
+U491,31,Male,7.9,5.0,8.0,2.0,3.0,Facebook
+U313,24,Male,5.6,5.0,8.0,7.0,1.0,YouTube
+U154,21,Male,4.8,5.0,7.0,1.0,2.0,Instagram
+U340,36,Female,6.1,7.0,7.0,5.0,2.0,YouTube
+U402,40,Male,4.4,7.0,5.0,4.0,0.0,YouTube
+U230,23,Male,4.1,8.0,5.0,6.0,3.0,LinkedIn
+U481,30,Male,5.0,7.0,8.0,2.0,5.0,YouTube
+U380,44,Female,4.3,8.0,7.0,4.0,2.0,TikTok
+U206,23,Male,3.5,9.0,5.0,4.0,2.0,Facebook
+U216,19,Female,8.7,6.0,7.0,5.0,3.0,YouTube
+U424,38,Female,6.2,7.0,6.0,6.0,5.0,LinkedIn
+U299,19,Female,6.7,6.0,5.0,4.0,2.0,Facebook
+U043,19,Male,2.5,9.0,3.0,0.0,0.0,LinkedIn
+U461,43,Male,6.0,6.0,5.0,5.0,1.0,Instagram
+U059,31,Male,7.6,5.0,10.0,3.0,2.0,Instagram
+U468,43,Male,5.1,6.0,6.0,3.0,4.0,LinkedIn
+U403,45,Male,2.1,10.0,5.0,6.0,1.0,Facebook
+U021,40,Female,3.0,8.0,5.0,5.0,4.0,X (Twitter)
+U189,22,Female,6.2,6.0,9.0,2.0,2.0,TikTok
+U350,47,Male,6.0,6.0,7.0,3.0,2.0,Instagram
+U174,41,Male,4.9,7.0,5.0,5.0,5.0,YouTube
+U169,31,Male,4.2,8.0,6.0,3.0,2.0,Instagram
+U053,46,Female,3.6,7.0,5.0,3.0,3.0,YouTube
+U421,27,Other,6.3,4.0,9.0,5.0,5.0,TikTok
+U263,38,Female,2.7,6.0,3.0,4.0,4.0,YouTube
+U145,43,Male,4.6,8.0,7.0,0.0,2.0,TikTok
+U168,21,Male,5.1,6.0,5.0,4.0,4.0,X (Twitter)
+U177,35,Female,6.0,7.0,7.0,5.0,4.0,X (Twitter)
+U147,47,Male,6.2,5.0,7.0,6.0,1.0,YouTube
+U135,30,Female,7.7,4.0,10.0,2.0,1.0,X (Twitter)
+U414,22,Female,5.9,5.0,6.0,2.0,1.0,LinkedIn
+U269,48,Female,6.9,5.0,9.0,4.0,1.0,Facebook
+U133,48,Male,6.5,6.0,8.0,3.0,3.0,TikTok
+U186,38,Male,6.4,6.0,7.0,0.0,4.0,Facebook
+U207,35,Male,6.2,4.0,8.0,1.0,3.0,Instagram
+U274,39,Male,6.9,5.0,7.0,3.0,0.0,YouTube
+U007,26,Female,7.8,4.0,8.0,2.0,0.0,TikTok
+U446,16,Female,6.3,6.0,7.0,6.0,0.0,Facebook
+U187,46,Female,3.6,9.0,5.0,4.0,5.0,TikTok
+U271,44,Female,6.5,5.0,6.0,2.0,3.0,Instagram
+U024,31,Female,7.8,5.0,8.0,1.0,2.0,TikTok
+U225,48,Male,7.3,5.0,9.0,4.0,4.0,Instagram
+U395,47,Female,5.2,7.0,7.0,3.0,2.0,Facebook
+U494,39,Female,3.0,7.0,2.0,1.0,0.0,Facebook
+U392,24,Male,6.5,7.0,6.0,1.0,1.0,LinkedIn
+U434,24,Male,4.2,8.0,7.0,5.0,3.0,X (Twitter)
+U497,43,Female,5.6,7.0,6.0,5.0,2.0,Facebook
+U163,37,Female,5.3,7.0,6.0,4.0,0.0,Instagram
+U462,35,Male,4.5,7.0,8.0,4.0,4.0,Instagram
+U203,48,Female,10.0,3.0,10.0,3.0,2.0,TikTok
+U126,42,Male,5.7,7.0,7.0,0.0,1.0,LinkedIn
+U096,29,Male,3.9,7.0,6.0,2.0,3.0,TikTok
+U032,40,Male,6.0,6.0,7.0,5.0,4.0,TikTok
+U253,38,Female,3.5,9.0,4.0,0.0,0.0,Facebook
+U339,41,Male,7.2,5.0,10.0,7.0,3.0,LinkedIn
+U081,24,Female,4.8,6.0,7.0,2.0,2.0,Instagram
+U440,42,Male,4.1,6.0,6.0,4.0,2.0,Facebook
+U010,39,Female,6.6,6.0,8.0,0.0,2.0,Facebook
+U158,32,Male,7.3,5.0,7.0,1.0,3.0,YouTube
+U194,27,Male,5.5,6.0,8.0,3.0,1.0,TikTok
+U204,39,Female,4.6,6.0,7.0,3.0,3.0,TikTok
+U406,40,Male,6.9,3.0,8.0,7.0,1.0,Facebook
+U365,48,Male,5.7,7.0,7.0,1.0,3.0,Facebook
+U248,44,Male,7.5,6.0,9.0,2.0,1.0,TikTok
+U377,32,Male,7.5,4.0,7.0,2.0,3.0,Instagram
+U094,20,Male,3.6,7.0,7.0,2.0,1.0,X (Twitter)
+U379,23,Male,1.5,9.0,3.0,2.0,3.0,TikTok
+U181,33,Male,6.3,6.0,8.0,7.0,3.0,X (Twitter)
+U078,20,Female,7.2,6.0,9.0,1.0,2.0,Instagram
+U401,38,Female,7.2,5.0,8.0,1.0,2.0,YouTube
+U180,48,Male,6.8,4.0,7.0,4.0,2.0,YouTube
+U354,31,Male,8.1,5.0,9.0,2.0,2.0,Instagram
+U469,40,Male,4.1,6.0,7.0,1.0,2.0,Facebook
+U386,19,Male,2.7,8.0,5.0,2.0,1.0,LinkedIn
+U018,48,Male,5.4,6.0,4.0,3.0,4.0,TikTok
+U441,17,Female,9.5,4.0,9.0,2.0,2.0,YouTube
+U110,28,Male,7.0,6.0,6.0,3.0,2.0,X (Twitter)
+U267,41,Female,2.6,8.0,4.0,2.0,2.0,X (Twitter)
+U217,48,Male,3.9,9.0,5.0,1.0,0.0,X (Twitter)
+U352,20,Female,5.0,6.0,5.0,3.0,3.0,YouTube
+U298,20,Male,7.7,4.0,8.0,5.0,0.0,YouTube
+U228,37,Female,4.7,9.0,6.0,3.0,1.0,YouTube
+U453,46,Female,6.1,6.0,8.0,0.0,1.0,X (Twitter)
+U185,40,Male,7.7,3.0,9.0,0.0,4.0,Instagram
+U073,39,Male,6.1,5.0,5.0,1.0,5.0,TikTok
+U331,29,Male,6.0,8.0,7.0,3.0,2.0,Facebook
+U006,38,Male,6.6,5.0,7.0,4.0,3.0,LinkedIn
+U427,46,Female,6.4,6.0,8.0,5.0,4.0,X (Twitter)
+U064,44,Female,4.4,6.0,7.0,1.0,3.0,LinkedIn
+U095,41,Female,1.0,7.0,5.0,2.0,6.0,TikTok
+U356,31,Male,6.1,6.0,6.0,2.0,2.0,X (Twitter)
+U353,19,Female,6.1,6.0,8.0,3.0,3.0,X (Twitter)
+U128,18,Female,3.1,7.0,6.0,4.0,3.0,TikTok
+U457,41,Female,2.9,8.0,3.0,0.0,3.0,LinkedIn
+U261,47,Female,2.1,8.0,4.0,5.0,1.0,X (Twitter)
+U286,49,Male,6.1,5.0,6.0,4.0,3.0,LinkedIn
+U200,18,Male,5.5,5.0,6.0,2.0,6.0,X (Twitter)
+U107,38,Male,6.2,7.0,7.0,1.0,3.0,Instagram
+U179,22,Other,6.8,5.0,10.0,5.0,1.0,LinkedIn
+U061,39,Male,2.7,9.0,5.0,1.0,3.0,TikTok
+U138,39,Male,6.2,5.0,8.0,4.0,4.0,LinkedIn
+U246,21,Female,4.5,6.0,6.0,4.0,1.0,LinkedIn
+U084,49,Male,7.5,4.0,7.0,2.0,4.0,X (Twitter)
+U393,39,Male,5.0,5.0,6.0,4.0,5.0,Facebook
+U049,41,Male,3.7,8.0,6.0,3.0,1.0,TikTok
+U033,29,Female,3.1,8.0,4.0,2.0,2.0,LinkedIn
+U410,27,Female,5.2,4.0,7.0,7.0,3.0,TikTok
+U210,44,Male,4.5,6.0,6.0,0.0,2.0,Instagram
+U376,38,Female,4.2,8.0,5.0,6.0,1.0,X (Twitter)
+U370,25,Male,8.3,5.0,8.0,4.0,2.0,Facebook
+U284,30,Female,5.9,6.0,9.0,3.0,2.0,YouTube
+U218,29,Male,5.6,6.0,6.0,0.0,2.0,X (Twitter)
+U066,16,Male,4.4,8.0,4.0,5.0,1.0,YouTube
+U233,49,Male,6.2,6.0,8.0,1.0,3.0,LinkedIn
+U360,42,Male,6.5,5.0,7.0,1.0,2.0,Instagram
+U361,35,Female,6.8,4.0,9.0,3.0,0.0,X (Twitter)
+U483,16,Female,5.7,6.0,6.0,0.0,2.0,X (Twitter)
+U036,17,Other,5.6,6.0,7.0,4.0,3.0,TikTok
+U148,48,Male,4.6,7.0,5.0,2.0,3.0,TikTok
+U308,34,Male,7.8,5.0,9.0,2.0,2.0,YouTube
+U479,33,Male,6.8,6.0,8.0,2.0,1.0,TikTok
+U183,26,Female,3.8,10.0,6.0,5.0,2.0,LinkedIn
+U039,22,Other,4.6,4.0,6.0,5.0,2.0,Facebook
+U088,37,Female,3.2,8.0,7.0,3.0,1.0,X (Twitter)
+U478,35,Male,3.3,9.0,6.0,4.0,4.0,YouTube
+U166,48,Female,8.5,4.0,10.0,3.0,3.0,LinkedIn
+U211,33,Female,5.0,6.0,6.0,0.0,0.0,X (Twitter)
+U296,48,Female,6.0,5.0,7.0,2.0,0.0,Instagram
+U040,23,Female,1.0,9.0,5.0,5.0,7.0,Facebook
+U430,44,Male,5.0,6.0,5.0,3.0,1.0,X (Twitter)
+U020,37,Male,7.1,6.0,6.0,5.0,4.0,TikTok
+U368,16,Male,2.5,8.0,4.0,4.0,4.0,YouTube
+U385,22,Female,3.4,8.0,6.0,4.0,4.0,X (Twitter)
+U238,48,Male,7.2,6.0,8.0,6.0,2.0,Facebook
+U282,27,Female,7.4,4.0,9.0,5.0,3.0,Facebook
+U425,31,Female,5.0,7.0,6.0,3.0,4.0,TikTok
+U342,45,Female,5.6,6.0,6.0,1.0,3.0,LinkedIn
+U013,17,Female,7.0,7.0,10.0,7.0,1.0,YouTube
+U057,38,Female,9.7,3.0,9.0,3.0,2.0,Facebook
+U099,30,Female,7.9,5.0,8.0,0.0,2.0,LinkedIn
+U418,34,Female,5.4,4.0,5.0,4.0,4.0,X (Twitter)
+U411,34,Male,3.8,7.0,6.0,7.0,5.0,TikTok
+U146,38,Male,5.7,7.0,5.0,2.0,1.0,LinkedIn
+U191,41,Male,3.1,7.0,7.0,2.0,3.0,YouTube
+U268,32,Male,4.5,7.0,6.0,1.0,2.0,LinkedIn
+U258,46,Male,5.3,7.0,8.0,5.0,5.0,YouTube
+U029,24,Male,4.3,6.0,6.0,5.0,2.0,X (Twitter)
+U318,47,Female,6.3,5.0,8.0,7.0,2.0,X (Twitter)
+U433,27,Male,6.8,5.0,8.0,5.0,4.0,TikTok
+U165,31,Other,3.3,9.0,5.0,0.0,2.0,YouTube
+U364,48,Female,5.0,8.0,6.0,5.0,0.0,LinkedIn
+U156,19,Female,5.2,7.0,5.0,4.0,4.0,LinkedIn
+U399,27,Male,3.9,7.0,5.0,0.0,4.0,YouTube
+U319,40,Female,4.4,8.0,7.0,4.0,5.0,LinkedIn
+U050,49,Male,3.6,7.0,5.0,4.0,1.0,TikTok
+U415,43,Male,5.8,6.0,7.0,4.0,3.0,LinkedIn
+U499,23,Male,4.2,9.0,7.0,0.0,2.0,Facebook
+U127,28,Female,6.9,5.0,8.0,3.0,3.0,Facebook
+U062,41,Female,5.6,6.0,7.0,2.0,1.0,TikTok
+U273,40,Female,8.0,5.0,8.0,3.0,3.0,TikTok
+U277,35,Male,6.1,7.0,8.0,3.0,5.0,TikTok
+U363,27,Male,7.8,5.0,8.0,0.0,4.0,TikTok
+U076,23,Male,4.2,7.0,5.0,0.0,1.0,X (Twitter)
+U009,39,Male,4.7,7.0,7.0,6.0,1.0,YouTube
+U209,40,Other,5.5,6.0,7.0,3.0,0.0,YouTube
+U444,34,Male,4.2,8.0,4.0,4.0,2.0,TikTok
+U118,43,Female,6.4,6.0,7.0,1.0,1.0,Instagram
+U333,20,Male,7.4,4.0,9.0,4.0,2.0,Instagram
+U275,28,Female,6.2,3.0,8.0,0.0,3.0,TikTok
+U292,37,Male,4.2,9.0,7.0,2.0,2.0,LinkedIn
+U213,17,Female,9.8,4.0,9.0,5.0,0.0,LinkedIn
+U003,23,Other,7.4,6.0,7.0,1.0,3.0,YouTube
+U171,18,Male,5.6,5.0,7.0,3.0,1.0,X (Twitter)
+U162,21,Female,3.4,9.0,7.0,5.0,1.0,YouTube
+U089,42,Male,7.1,3.0,8.0,6.0,5.0,Instagram
+U293,37,Other,2.7,8.0,5.0,3.0,3.0,X (Twitter)
+U314,27,Other,4.3,7.0,7.0,2.0,1.0,X (Twitter)
+U047,44,Female,5.0,4.0,7.0,2.0,1.0,Facebook
+U416,29,Female,3.8,7.0,6.0,3.0,2.0,LinkedIn
+U080,22,Male,5.8,6.0,8.0,3.0,2.0,X (Twitter)
+U243,43,Male,4.8,6.0,5.0,3.0,5.0,YouTube
+U131,42,Female,6.0,5.0,8.0,1.0,1.0,LinkedIn
+U447,37,Female,7.7,4.0,8.0,5.0,2.0,LinkedIn
+U429,38,Male,7.6,6.0,9.0,4.0,3.0,X (Twitter)
+U016,17,Female,5.1,7.0,6.0,2.0,5.0,LinkedIn
+U460,28,Female,7.5,6.0,8.0,3.0,2.0,Facebook
+U242,32,Male,9.4,3.0,9.0,2.0,3.0,Instagram
+U173,34,Male,7.2,6.0,6.0,3.0,3.0,X (Twitter)
+U137,47,Female,5.8,6.0,7.0,3.0,4.0,TikTok
+U151,17,Female,6.8,5.0,8.0,6.0,0.0,X (Twitter)
+U321,31,Male,5.8,6.0,8.0,6.0,1.0,Facebook
+U069,24,Female,4.8,6.0,7.0,5.0,2.0,TikTok
+U027,22,Female,6.2,5.0,8.0,5.0,0.0,X (Twitter)
+U455,42,Female,6.2,6.0,6.0,3.0,3.0,LinkedIn
+U419,31,Male,4.5,8.0,5.0,0.0,4.0,Instagram
+U202,39,Male,4.3,9.0,7.0,1.0,3.0,TikTok
+U287,17,Male,6.2,6.0,8.0,0.0,3.0,YouTube
+U260,39,Female,7.1,4.0,8.0,0.0,2.0,Facebook
+U143,17,Male,2.2,10.0,5.0,4.0,1.0,LinkedIn
+U002,30,Other,5.1,7.0,8.0,5.0,3.0,LinkedIn
+U115,17,Female,4.8,7.0,6.0,3.0,3.0,TikTok
+U362,39,Female,6.6,6.0,7.0,3.0,1.0,Instagram
+U495,43,Female,5.6,8.0,6.0,2.0,0.0,Instagram
+U251,36,Female,3.8,7.0,5.0,3.0,2.0,Facebook
+U120,45,Male,6.2,5.0,8.0,5.0,3.0,YouTube
+U197,24,Male,4.4,8.0,7.0,6.0,3.0,Instagram
+U278,16,Female,5.0,7.0,6.0,1.0,5.0,YouTube
+U378,41,Male,8.3,4.0,10.0,3.0,1.0,X (Twitter)
+U371,44,Male,2.7,9.0,5.0,5.0,1.0,TikTok
+U347,46,Other,3.5,7.0,6.0,1.0,2.0,YouTube
+U439,24,Male,5.9,7.0,6.0,1.0,2.0,Instagram
+U355,39,Female,6.5,5.0,5.0,5.0,0.0,Instagram
+U122,43,Female,5.5,8.0,6.0,5.0,2.0,TikTok
+U257,40,Male,7.5,4.0,8.0,5.0,0.0,Facebook
+U106,45,Male,6.3,7.0,8.0,0.0,2.0,LinkedIn
+U341,48,Male,4.7,6.0,7.0,3.0,0.0,Instagram
+U184,43,Female,6.1,7.0,9.0,1.0,4.0,YouTube
+U063,40,Female,4.6,7.0,7.0,1.0,3.0,X (Twitter)
+U435,25,Female,6.9,7.0,7.0,0.0,2.0,TikTok
+U152,41,Female,7.4,4.0,9.0,6.0,3.0,YouTube
+U335,20,Male,6.5,7.0,7.0,4.0,1.0,LinkedIn
+U236,48,Female,7.5,4.0,9.0,4.0,5.0,YouTube
+U312,38,Male,4.5,7.0,6.0,2.0,1.0,TikTok
+U346,49,Male,6.7,6.0,8.0,1.0,4.0,Instagram
+U104,47,Male,6.0,6.0,7.0,6.0,2.0,Facebook
+U083,27,Male,6.5,7.0,9.0,7.0,2.0,TikTok
+U005,34,Female,7.0,4.0,7.0,5.0,1.0,X (Twitter)
+U285,43,Female,3.4,7.0,7.0,4.0,2.0,X (Twitter)
+U011,18,Female,2.8,7.0,6.0,2.0,0.0,Instagram
+U035,41,Other,6.8,8.0,7.0,2.0,2.0,LinkedIn
+U400,28,Male,3.7,8.0,5.0,4.0,3.0,YouTube
+U176,34,Male,5.4,6.0,6.0,4.0,0.0,Instagram
+U482,46,Female,8.6,4.0,8.0,2.0,2.0,YouTube
+U245,44,Male,3.6,8.0,5.0,0.0,2.0,X (Twitter)
+U048,33,Female,4.1,8.0,7.0,6.0,3.0,LinkedIn
+U239,20,Female,5.1,4.0,5.0,2.0,1.0,LinkedIn
+U390,36,Female,6.8,5.0,8.0,3.0,4.0,YouTube
+U464,23,Male,6.5,5.0,10.0,5.0,3.0,LinkedIn
+U136,47,Female,2.9,8.0,5.0,0.0,1.0,Instagram
+U498,41,Male,7.7,5.0,7.0,2.0,2.0,LinkedIn
+U366,27,Female,3.6,8.0,5.0,2.0,1.0,TikTok
+U467,28,Male,4.4,7.0,7.0,3.0,4.0,TikTok
+U175,18,Female,6.4,6.0,8.0,0.0,2.0,X (Twitter)
+U086,38,Female,5.7,5.0,6.0,3.0,2.0,TikTok
+U019,27,Male,4.7,6.0,6.0,0.0,2.0,Instagram
+U492,23,Male,3.3,10.0,4.0,2.0,1.0,YouTube
+U500,43,Female,5.9,5.0,8.0,3.0,3.0,X (Twitter)
+U087,39,Male,2.4,7.0,4.0,4.0,2.0,Facebook
+U327,41,Male,3.9,6.0,4.0,5.0,2.0,TikTok
+U485,31,Female,3.7,7.0,7.0,0.0,1.0,LinkedIn
+U329,37,Female,3.8,7.0,4.0,2.0,3.0,TikTok
+U042,32,Male,6.1,5.0,6.0,3.0,3.0,Instagram
+U017,36,Female,7.5,5.0,8.0,4.0,4.0,Facebook
+U046,19,Male,6.9,5.0,7.0,2.0,3.0,Facebook
+U085,48,Other,4.0,7.0,5.0,2.0,5.0,LinkedIn
+U090,16,Male,3.8,10.0,6.0,5.0,0.0,X (Twitter)
+U250,48,Male,5.3,5.0,5.0,2.0,3.0,LinkedIn
+U160,20,Male,7.9,5.0,9.0,2.0,4.0,Instagram
+U114,43,Male,6.4,6.0,7.0,4.0,2.0,YouTube
+U198,34,Male,7.3,5.0,7.0,1.0,1.0,YouTube
+U454,34,Female,5.5,6.0,5.0,4.0,3.0,Facebook
+U097,42,Male,7.7,4.0,7.0,2.0,3.0,Facebook
+U117,43,Male,4.3,7.0,6.0,3.0,4.0,LinkedIn
+U270,24,Female,5.8,8.0,6.0,1.0,2.0,YouTube
+U344,25,Male,6.3,5.0,9.0,5.0,4.0,Facebook
+U082,23,Female,6.6,6.0,8.0,5.0,1.0,TikTok
+U413,24,Male,8.8,5.0,9.0,0.0,3.0,YouTube
+U431,26,Female,5.0,6.0,6.0,3.0,1.0,TikTok
+U451,19,Female,8.1,5.0,9.0,1.0,5.0,X (Twitter)
+U317,49,Female,5.2,7.0,8.0,3.0,2.0,LinkedIn
+U244,45,Male,5.9,6.0,8.0,0.0,3.0,Facebook
+U015,45,Male,6.3,7.0,7.0,4.0,3.0,X (Twitter)
+U108,30,Male,6.8,7.0,7.0,2.0,1.0,X (Twitter)
+U372,28,Female,5.0,7.0,5.0,4.0,0.0,LinkedIn
+U450,40,Male,6.0,4.0,6.0,9.0,3.0,LinkedIn
+U397,38,Male,5.4,8.0,9.0,5.0,3.0,X (Twitter)
+U276,22,Male,4.3,7.0,5.0,4.0,2.0,X (Twitter)
+U259,18,Female,7.2,4.0,7.0,3.0,2.0,X (Twitter)
+U004,36,Female,5.7,7.0,8.0,1.0,1.0,TikTok
+U476,26,Female,9.3,3.0,8.0,2.0,1.0,Facebook
+U332,43,Female,4.3,6.0,3.0,3.0,2.0,TikTok
+U490,47,Female,4.9,7.0,7.0,1.0,7.0,Instagram
+U129,21,Male,8.2,5.0,7.0,6.0,4.0,Instagram
+U140,17,Female,4.8,8.0,5.0,4.0,1.0,X (Twitter)
+U232,42,Male,6.1,7.0,6.0,4.0,0.0,X (Twitter)
+U196,47,Female,6.5,5.0,7.0,2.0,2.0,LinkedIn
+U423,36,Male,7.7,5.0,8.0,4.0,0.0,LinkedIn
+U291,40,Male,7.5,5.0,7.0,4.0,4.0,TikTok
+U294,21,Male,5.0,7.0,6.0,5.0,2.0,X (Twitter)
+U077,48,Female,9.7,4.0,8.0,5.0,1.0,LinkedIn
+U252,47,Female,6.9,6.0,8.0,4.0,2.0,X (Twitter)
+U241,19,Female,6.2,5.0,7.0,1.0,3.0,YouTube
+U051,25,Female,2.0,9.0,4.0,5.0,3.0,X (Twitter)
+U432,33,Female,6.9,6.0,7.0,0.0,4.0,Instagram
+U247,39,Female,6.6,6.0,7.0,3.0,3.0,LinkedIn
+U384,49,Male,5.5,7.0,5.0,5.0,0.0,Instagram
+U458,34,Male,2.1,9.0,4.0,5.0,2.0,Facebook
+U337,31,Male,5.4,6.0,7.0,5.0,3.0,Facebook
+U326,27,Male,10.8,2.0,9.0,3.0,2.0,X (Twitter)
+U477,34,Male,3.4,8.0,5.0,4.0,0.0,X (Twitter)
+U369,48,Female,3.9,6.0,5.0,0.0,2.0,LinkedIn
+U121,26,Male,5.1,6.0,5.0,5.0,2.0,X (Twitter)
+U443,44,Female,6.4,5.0,6.0,5.0,3.0,YouTube
+U375,17,Male,5.8,6.0,7.0,1.0,5.0,TikTok
+U283,38,Female,1.5,9.0,4.0,5.0,5.0,LinkedIn
+U381,41,Female,5.6,6.0,7.0,2.0,2.0,Instagram
+U237,43,Female,5.7,7.0,7.0,3.0,2.0,LinkedIn
+U159,39,Male,7.5,5.0,6.0,6.0,3.0,Instagram
+U172,35,Male,5.1,7.0,7.0,2.0,0.0,Facebook
+U031,19,Male,7.1,5.0,8.0,5.0,2.0,X (Twitter)
+U155,47,Female,3.3,8.0,5.0,4.0,4.0,YouTube
+U234,36,Male,6.7,7.0,7.0,4.0,2.0,TikTok
+U280,31,Male,5.4,5.0,8.0,5.0,2.0,Instagram
+U178,47,Male,5.1,7.0,4.0,2.0,0.0,TikTok
+U144,17,Male,7.2,7.0,8.0,3.0,1.0,Instagram
+U153,47,Female,2.4,7.0,7.0,5.0,6.0,LinkedIn
+U373,27,Other,3.2,9.0,6.0,4.0,5.0,X (Twitter)
+U205,26,Male,7.3,5.0,8.0,2.0,2.0,X (Twitter)
+U054,30,Female,6.7,6.0,8.0,6.0,2.0,TikTok
+U295,30,Female,1.7,9.0,4.0,3.0,6.0,TikTok
+U212,33,Male,4.8,5.0,6.0,4.0,3.0,LinkedIn
+U304,28,Female,7.7,4.0,7.0,2.0,1.0,Facebook
