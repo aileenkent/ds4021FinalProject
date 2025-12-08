@@ -1,0 +1,27 @@
+CONTINUATION FOR PARAGRAPH 3:
+
+We used four models: A Penalized Linear Model, Support Vector Machine, Ensemble Model, and a Neural Network.
+
+**Model 1: Elastic Net Regression (Penalized Linear Model)**
+Elastic Net combines L1 (Lasso) and L2 (Ridge) regularization to handle multicollinearity while performing feature selection. Preprocessing steps included label encoding categorical variables and standardizing features using StandardScaler to ensure all features were on the same scale. Hyperparameters were tuned via GridSearchCV over alpha values [0.001, 0.01, 0.1, 0.5, 1, 5, 10] and l1_ratio values [0.1, 0.3, 0.5, 0.7, 0.9].
+
+**Model 2: Support Vector Machine (SVM)**
+SVMs are effective for capturing non-linear relationships in the data through kernel transformations. Preprocessing required the same label encoding and StandardScaler normalization as Elastic Net, as SVMs are sensitive to feature scaling. The model was tuned over kernel types (linear, rbf, poly) and regularization parameter C to optimize decision boundaries.
+
+**Model 3: Ensemble Model**
+The ensemble approach combined multiple weak learners (typically Random Forests and Gradient Boosting) to improve prediction robustness. Preprocessing steps were similar: categorical encoding and feature scaling. Ensemble methods benefit from diverse base learners, and hyperparameter tuning focused on the number of estimators and tree depth.
+
+**Model 4: Neural Network**
+The neural network consisted of fully connected layers with ReLU activation functions and dropout regularization to prevent overfitting. Preprocessing included the same label encoding and StandardScaler normalization, with additional consideration for feature importance given the black-box nature of deep learning. The network was trained with Adam optimization over multiple epochs.
+
+**Cross-Validation Strategy**
+All models employed 5-fold cross-validation to robustly estimate generalization performance. This approach partitioned the training data into 5 equal subsets, with each fold serving as a validation set while the remaining 4 folds were used for training. This strategy provided 5 independent estimates of model performance and reduced variance in performance metrics.
+
+**Performance Metrics**
+Model evaluation was conducted using four key metrics suited to regression tasks:
+- **Mean Squared Error (MSE)**: Quantifies the average squared difference between predicted and actual happiness values, penalizing larger errors more heavily.
+- **Root Mean Squared Error (RMSE)**: The square root of MSE, expressed in the same units as the target variable for interpretability.
+- **Mean Absolute Error (MAE)**: Provides a more robust measure of average absolute prediction error, less sensitive to outliers than MSE.
+- **R² Score**: Indicates the proportion of variance in happiness explained by each model, with values ranging from 0 to 1, where 1 represents perfect prediction.
+
+These metrics collectively assess both prediction accuracy and model reliability across the validation folds.
