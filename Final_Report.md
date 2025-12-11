@@ -11,18 +11,28 @@ We used four models: A Penalized Linear Model, Support Vector Machine, Ensemble 
 
 ## Results
 
-Our machine learning analysis yielded significant performance differences among the four models evaluated through cross-validation. The table below summarizes the cross-validated performance metrics for the optimal hyperparameter combination of each model. Compared to the other models, the Random Forest model demonstrated the strongest performance during the optimization process. This model achieved the lowest mean squared error (MSE = 0.2568) and highest R-squared value (R² = 0.8921) on the training data.
+!!!!! TO USE IF RANDOM FOREST (check metrics) !!!!!
+Our machine learning analysis yielded significant performance differences among the four models evaluated through cross-validation. The table below summarizes the cross-validated performance metrics for the optimal hyperparameter combination of each model. Compared to the other models, the Random Forest model demonstrated the strongest performance during the optimization process. This model achieved the lowest mean squared error (MSE = 0.2079) and highest R-squared value (R² = 0.9126) on the training data.
+
+!!!!! TO USE IF SVM (check metrics) !!!!!
+Our machine learning analysis yielded significant performance differences among the four models evaluated through cross-validation. The table below summarizes the cross-validated performance metrics for the optimal hyperparameter combination of each model. Compared to the other models, the Support Vector Machine model demonstrated the strongest performance during the optimization process. This model achieved the lowest mean squared error (MSE = 0.0094) and highest R-squared value (R² = 0.9960) on the training data.
 
 ### Cross-Validated Performance of Optimized Models on Training Data
 
 | Model Type                  | MSE    | R²     | Best Hyperparameters           |
 |-----------------------------|--------|--------|--------------------------------|
-| ElasticNet Regression       | 0.8804 | 0.6300 | α=0.01 <br> L1 ratio=0.9       |
-| Support Vector Machine      | 0.8542 | 0.6410 | C=0.1 <br> kernel='line        |
-| Random Forest               | 0.2568 | 0.8921 | n_estimators=200 <br> max_depth=10 <br> min_samples_leaf=2 <br> min_samples_split=5 |
-| Neural Network (PyTorch)    | 0.9409 | 0.5885 | hidden_dim=16 <br> learning_rate=0.01 <br> batch_size=16 <br> n_epochs=300          |
+| ElasticNet Regression       | 0.8906 | 0.6257 | α=0.1 <br> L1 ratio=0.1       |
+| Support Vector Machine      | 0.0094 | 0.9960 | C=10 <br> kernel='linear'        |
+| Random Forest               | 0.2079 | 0.9126 | n_estimators=200 <br> max_depth=10 <br> min_samples_leaf=1 <br> min_samples_split=5 |
+| Neural Network (PyTorch)    | 0.9474 | 0.5892 | hidden_dim=32 <br> dropout=0.2 <br> learning_rate=0.001 <br> batch_size=16 <br> n_epochs=300          |
 
-Based on its cross-validation performance, we selected the Random Forest model with optimal hyperparameters (n_estimators=200, max_depth=10, min_samples_split=5, min_samples_leaf=2) to evaluate  on the test set. The model achieved a test MSE of 0.7972, RMSE of 0.8929, R² of 0.6060, and MAE of 0.6621. Our model produced significantly degraded performance metrics when predicting on the test set. This decrease in performance is indicative of some overfitting in the model. It suggests that the model is capturing some of the patterns that allow it to generalize to unseen data, but is becoming too specific to the training data. Despite this, the model maintains some explanatory power. Its R² value indicates that the model can explain ~60% of the variance in the data.
+!!!!! TO USE IF RANDOM FOREST (check metrics) !!!!!
+Based on its cross-validation performance, we selected the Random Forest model with optimal hyperparameters (n_estimators=200, max_depth=10, min_samples_split=5, min_samples_leaf=1) to evaluate  on the test set. The model achieved a test MSE of 0.8300, RMSE of 0.9111, R² of 0.5898, and MAE of 0.7386. Our model produced significantly degraded performance metrics when predicting on the test set. This decrease in performance is indicative of some overfitting in the model. It suggests that the model is capturing some of the patterns that allow it to generalize to unseen data, but is becoming too specific to the training data. Despite this, the model maintains some explanatory power. Its R² value indicates that the model can explain ~60% of the variance in the data.
+
+!!!!! TO USE IF SVM (check metrics) !!!!!
+
+Based on its cross-validation performance, we selected the Support Vector Machine model with optimal hyperparameters (C=10, kernel='linear') to evaluate on the test set. The model achieved a test MSE of 0.7682, RMSE of 0.8764, R² of 0.6204, and MAE of 0.7084. Our model produced significantly degraded performance metrics when predicting on the test set. This decrease in performance is indicative of some overfitting in the model. It suggests that the model is capturing some of the patterns that allow it to generalize to unseen data, but is becoming too specific to the training data. Despite this, the model maintains some explanatory power. Its R² value indicates that the model can explain ~62% of the variance in the data.
+
 
 ## Discussion
 
